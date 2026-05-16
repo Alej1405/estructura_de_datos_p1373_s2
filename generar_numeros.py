@@ -44,4 +44,4 @@ else:
     print(f"{buscar} no está en la lista (binaria)")
 
 print(f"Tiempo de búsqueda binaria: {fin_binaria - inicio_binaria:.6f} segundos")
-#fin de la busqueda binaria.
+#fin de la busqueda binaria
